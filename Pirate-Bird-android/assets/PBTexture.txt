@@ -1,0 +1,60 @@
+PBTexture.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Bird
+  rotate: false
+  xy: 92, 89
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: 2
+Bird
+  rotate: false
+  xy: 53, 89
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: 3
+Pipe
+  rotate: false
+  xy: 53, 118
+  size: 44, 7
+  orig: 44, 7
+  offset: 0, 0
+  index: -1
+Skull
+  rotate: false
+  xy: 2, 89
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Ground
+  rotate: false
+  xy: 164, 89
+  size: 330, 24
+  orig: 330, 24
+  offset: 0, 0
+  index: -1
+Scoreboard
+  rotate: false
+  xy: 276, 2
+  size: 195, 74
+  orig: 195, 74
+  offset: 0, 0
+  index: -1
+Bird
+  rotate: false
+  xy: 129, 89
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 1
+Background
+  rotate: false
+  xy: 2, 2
+  size: 272, 85
+  orig: 272, 85
+  offset: 0, 0
+  index: -1
